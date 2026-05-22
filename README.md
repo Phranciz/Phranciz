@@ -2,10 +2,8 @@
 
 <h2>👨‍💻 ABOUT ME:</h2>
 
-<b> I specialize in creating high quality works </b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+<b> I specialize in creating high quality digital visuals and cinematic renders for games, brands, and digital experiences, I enjoy transforming ideas into fully realized digital scenes through modeling, texturing, lighting, and rendering. This GitHub portfolio is a space where I document my workflow, showcase finished projects, and share my growth as a digital artist. i'm also into game development and currently exploring unreal engine </b>
+
 - <b> Technical skills </b>
 - 
   
@@ -31,21 +29,12 @@
 <h2>📈 EXPERIENCE:</h2>
 Freelancer(3d Artist)
 2024-present
--Created 
 
 
 <h2>☎ Contact me:</h2>
 
-[Email]: franciseton1610@gmail.com
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+- [Email]: franciseton1610@gmail.com
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
