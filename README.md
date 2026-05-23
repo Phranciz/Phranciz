@@ -1,12 +1,9 @@
-<h1>Hi, I'm Francis! <br/> <a> 3D artist</a>, <a>Blender generalist </a>, <a> freelancer </a></h1>
-
+<h1>Hi, I'm Francis! <br/> <a> 3D artist</a>, <a>Blender generalist </a>,<a> Future game developer</a></h1>
 <h2>👨‍💻 ABOUT ME:</h2>
 
-<b> I specialize in creating high quality digital visuals and cinematic renders for games, brands, and digital experiences, I enjoy transforming ideas into fully realized digital scenes through modeling, texturing, lighting, and rendering. This GitHub portfolio is a space where I document my workflow, showcase finished projects, and share my growth as a digital artist. i'm also into game development and currently exploring unreal engine </b>
+ I specialize in creating high quality digital visuals and cinematic renders for games, brands, and digital experiences, I enjoy transforming ideas into fully realized digital scenes through modeling, texturing, lighting, and rendering. This GitHub portfolio is a space where I document my workflow, showcase finished projects, and share my growth as a digital artist. i'm also into game development and currently exploring unreal engine.
 
-- <b> Technical skills </b>
-- 
-  
+  - <b>🌱 LEARNING:</b> Currently exploring game development with unreal engine.
  <h2>🛠 TECHNICAL SKILLS</h2>
 
   - 3D modelling
@@ -33,8 +30,9 @@ Freelancer(3d Artist)
 
 <h2>☎ Contact me:</h2>
 
-- [Email]: franciseton1610@gmail.com
 
+-  Email: franciseton1610@gmail.com
+-  Github: 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
