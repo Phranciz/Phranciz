@@ -12,6 +12,9 @@
   - Compositing, Lighting & Rendering
   - Cinematic animation
 
+ <b>🌱 I'm currently learning game development with unreal engine.</b>
+
+
  <h2>💿 SOFTWARES</h2>
   
 - Blender
