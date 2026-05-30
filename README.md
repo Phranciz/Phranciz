@@ -25,12 +25,11 @@
   
 <h2>🎥 PROJECTS </h2>
 
+https://github.com/Phranciz/Phranciz/blob/main/Altar_GIF.gif
+https://github.com/Phranciz/Phranciz/blob/main/FPV%20Drone%20testing_GIF.gif
+https://github.com/Phranciz/Phranciz/blob/main/Giftbox_GIF.gif
+https://github.com/Phranciz/Phranciz/blob/main/Holographic%20sculpt_GIF.gif
 
-
-https://github.com/user-attachments/assets/792383a6-2d1c-4050-9265-ab107a227e68
-
-
-https://github.com/Phranciz/Phranciz/releases/download/v1/6sec.mp4
 
 <h2>📈 EXPERIENCE:</h2>
 Freelancer(3d Artist)
