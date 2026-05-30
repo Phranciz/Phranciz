@@ -30,6 +30,9 @@ https://github.com/Phranciz/Phranciz/blob/main/FPV%20Drone%20testing_GIF.gif
 https://github.com/Phranciz/Phranciz/blob/main/Giftbox_GIF.gif
 https://github.com/Phranciz/Phranciz/blob/main/Holographic%20sculpt_GIF.gif
 
+The above projects can only be displayed here on GITHUB in GIF format, to see it's clearer version, use the link below to download and view it's ORIGINAL project files
+https://github.com/Phranciz/Phranciz/blob/1723f319d05219c3ac30da1a81a7cbce152b9d1d/Original%20video%20versions%20of%20GIF
+
 
 <h2>📈 EXPERIENCE:</h2>
 Freelancer(3d Artist)
